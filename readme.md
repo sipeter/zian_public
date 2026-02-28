@@ -2,12 +2,11 @@
 
 # Zian - Offline Voice Productivity Tool
 
-> **Official Website**: [ziansoft.com](https://ziansoft.com)  
 > **Your data, always on your device.**  
 > A privacy-focused, zero-latency local voice input solution.
 
 ## 📖 Introduction
-Zian is a voice productivity tool that breaks cloud dependency. Unlike traditional solutions, Zian utilizes your device's local computing power to run deeply optimized AI models directly.
+Zian ([ziansoft.com](https://ziansoft.com)) is a voice productivity tool that breaks cloud dependency. Unlike traditional solutions, Zian utilizes your device's local computing power to run deeply optimized AI models directly.
 
 Whether you are writing documents, chatting instantly, or organizing meeting recordings, Zian delivers millisecond-level response speed and absolute data security.
 
