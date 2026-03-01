@@ -38,6 +38,11 @@ Before installation, please ensure your device meets the following conditions:
 
 > ⚠️ **Note**: If blocked by Windows SmartScreen on first run, please select "Run anyway". This is normal as the software includes keyboard hooks and a local inference engine.
 
+## 💬 Community
+Join our community to report bugs, suggest features, or just chat with other users!
+*   **Discord**: [Join Zian Discord Server](https://discord.gg/tQqecuFW)
+*   **QQ Group**: 1034895071 (For Chinese users)
+
 ## ⚙️ FAQ
 *   **Recognition failed?**
     Please check if the model files in the `core` directory are intact and the path contains no special characters.
